@@ -1,0 +1,14 @@
+{
+  "name": "readdevicetocloudmessages",
+  "version": "1.0.0",
+  "description": "MOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jesse Scott",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.8"
+  }
+}

@@ -25,6 +25,25 @@ Agenda
 
 ## Installation
 
+https://github.com/Mission-Mars-Fourth-Horizon-Org/Mission-Briefings/blob/master/IoTHubs/readme.md
+
+###Core Skill Training:
+
+* https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-csharp-csharp-getstarted
+* https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-csharp-csharp-c2d
+
 
 
 ## Tech Notes
+
+### MOM-CS-01
+
+HOSTNAME
+MOM-CS-01.azure-devices.net
+
+CONNECTION STRING
+HostName=MOM-CS-01.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=lmjmAaWoLwp2wmngWRypEcSO4eqim8/FD5kqWjb9dG0=
+
+DEVICE KEY
+Device ID: myFirstNodeDevice
+Device key: aJaeLTAfbp8HLmQJalHq5qmjq/UEv6TkY6SczO1iIDU=

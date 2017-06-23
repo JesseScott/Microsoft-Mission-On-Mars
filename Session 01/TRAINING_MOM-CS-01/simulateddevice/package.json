@@ -1,0 +1,15 @@
+{
+  "name": "simulateddevice",
+  "version": "1.0.0",
+  "description": "MOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jesse Scott",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.1.14",
+    "azure-iot-device-mqtt": "^1.1.14"
+  }
+}
