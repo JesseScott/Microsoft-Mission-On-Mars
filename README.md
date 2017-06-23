@@ -27,31 +27,11 @@ Agenda
 
 https://github.com/Mission-Mars-Fourth-Horizon-Org/Mission-Briefings/blob/master/IoTHubs/readme.md
 
-###Core Skill Training:
+## Links
 
+* https://portal.azure.com
 * https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-csharp-csharp-getstarted
 * https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-csharp-csharp-c2d
-
-
-
-## Tech Notes
-
-### MOM-CS-01
-
-HOSTNAME
-MOM-CS-01.azure-devices.net
-
-CONNECTION STRING
-HostName=MOM-CS-01.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=lmjmAaWoLwp2wmngWRypEcSO4eqim8/FD5kqWjb9dG0=
-
-DEVICE KEY
-Device ID: myFirstNodeDevice
-Device key: aJaeLTAfbp8HLmQJalHq5qmjq/UEv6TkY6SczO1iIDU=
-
-
-HostName=missionmarsvancouver.azure-devices.net;SharedAccessKeyName=coffeeclient;SharedAccessKey=5HM6kAUK5hiN03y5oWfQUbDz84x2sX+ZBYyPNPY/SRE=
-
-
-### MOM-CS-02
-
-https://mom-s2-functions5df1419d.azurewebsites.net/api/HttpTriggerJS1?code=r4shTKUa7jyMxwDjk/5JjnJQF4zTpL5o1gX4cejITYzr34s4/qYWxQ==&name=Jesse
+* https://github.com/Mission-Mars-Fourth-Horizon-Org/Mission-Briefings
+* https://azure.microsoft.com/en-us/services/cognitive-services/
+* https://docs.microsoft.com/en-us/azure/cognitive-services/Face/tutorials/faceapiinpythontutorial
