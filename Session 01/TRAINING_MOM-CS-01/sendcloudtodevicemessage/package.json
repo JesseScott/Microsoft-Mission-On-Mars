@@ -1,0 +1,14 @@
+{
+  "name": "sendcloudtodevicemessage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jesse Scott",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iothub": "^1.1.11"
+  }
+}

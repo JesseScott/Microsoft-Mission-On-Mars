@@ -47,3 +47,6 @@ HostName=MOM-CS-01.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAcces
 DEVICE KEY
 Device ID: myFirstNodeDevice
 Device key: aJaeLTAfbp8HLmQJalHq5qmjq/UEv6TkY6SczO1iIDU=
+
+
+HostName=missionmarsvancouver.azure-devices.net;SharedAccessKeyName=coffeeclient;SharedAccessKey=5HM6kAUK5hiN03y5oWfQUbDz84x2sX+ZBYyPNPY/SRE=
