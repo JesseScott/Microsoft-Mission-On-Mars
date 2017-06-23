@@ -50,3 +50,8 @@ Device key: aJaeLTAfbp8HLmQJalHq5qmjq/UEv6TkY6SczO1iIDU=
 
 
 HostName=missionmarsvancouver.azure-devices.net;SharedAccessKeyName=coffeeclient;SharedAccessKey=5HM6kAUK5hiN03y5oWfQUbDz84x2sX+ZBYyPNPY/SRE=
+
+
+### MOM-CS-02
+
+https://mom-s2-functions5df1419d.azurewebsites.net/api/HttpTriggerJS1?code=r4shTKUa7jyMxwDjk/5JjnJQF4zTpL5o1gX4cejITYzr34s4/qYWxQ==&name=Jesse
